@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Kota DKI Jakarta</name>
+    <NetworkLink>
+      <name>Peta 3 wilayah</name>
+      <Link>
+        <href><![CDATA[https://www.google.com/maps/d/u/0/kml?forcekml=1&mid=1_k7stK8FnsS9cUx8HrYNm1EWeRgsDWQ&lid=7h-I4yxP6RE]]></href>
+      </Link>
+    </NetworkLink>
+  </Document>
+</kml>
