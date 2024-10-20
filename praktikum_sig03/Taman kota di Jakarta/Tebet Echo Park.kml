@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Tebet Echo Park</name>
+    <NetworkLink>
+      <name>Taman Kota area terbuka hijau Jakarta</name>
+      <Link>
+        <href><![CDATA[https://www.google.com/maps/d/u/0/kml?forcekml=1&mid=1GXQU0mKtnai_PTPuOJ3cVURAQg36Ju8&lid=aW7WbXGvgCw]]></href>
+      </Link>
+    </NetworkLink>
+  </Document>
+</kml>
