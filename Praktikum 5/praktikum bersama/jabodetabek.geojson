@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "jabodetabek",
+"features": [
+{ "type": "Feature", "properties": { "nama": "Jakarta", "luas": 661.5, "populasi": 10684.9, "tahun": 2024, "GDP": 338.836 }, "geometry": { "type": "Point", "coordinates": [ 106.813755273754737, -6.165603515234523 ] } },
+{ "type": "Feature", "properties": { "nama": "Bekasi", "luas": 210.5, "populasi": 2526.1313, "tahun": 2024, "GDP": 7.805 }, "geometry": { "type": "Point", "coordinates": [ 106.993656271597615, -6.250715518279407 ] } },
+{ "type": "Feature", "properties": { "nama": "Tanggerang", "luas": 164.5, "populasi": 1927.815, "tahun": 2024, "GDP": 4.921 }, "geometry": { "type": "Point", "coordinates": [ 106.609206668945376, -6.193237531626337 ] } },
+{ "type": "Feature", "properties": { "nama": "Depok", "luas": 200.3, "populasi": 1927.867, "tahun": 2024, "GDP": 5.745 }, "geometry": { "type": "Point", "coordinates": [ 106.769509135721876, -6.41998787657738 ] } }
+]
+}
